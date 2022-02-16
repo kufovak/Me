@@ -1,4 +1,4 @@
-# Me
+
 👋 Hi, I’m Kufova Klara
 🏠 I work in Artin like HRSpecialist/IT Sourcer
 🌱 I’m currently learning data analysis, Python, JS
